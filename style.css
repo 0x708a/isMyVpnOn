@@ -1,0 +1,33 @@
+body {
+    background-color: cadetblue;
+    padding: 0;
+}
+
+.title {
+    position: absolute;
+    left: 25%;
+    top: 5%;
+}
+
+.check {
+    position: absolute;
+    left: 25%;
+    width: 30%;
+    top: 15%;
+}
+
+.explain {
+    padding-top: 2%;
+    position: absolute;
+    top: 20%;
+    left: 25%;
+    max-width: 45%;
+    font-size: 2rem;
+}
+
+.results {
+    font-style: oblique;
+    position: absolute;
+    top: 55%;
+    left: 45%;
+}
